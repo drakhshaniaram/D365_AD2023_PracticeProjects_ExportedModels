@@ -1,0 +1,2 @@
+C:\AOSService\PackagesLocalDirectory\bin\ModelUtil.exe -export -metadatastorepath=C:\AOSService\PackagesLocalDirectory -modelname="D365_AD2023_FreeProjects_Model" -outputpath=c:\D365_AD2023_PracticeProjects_ExportedModels
+C:\AOSService\PackagesLocalDirectory\bin\ModelUtil.exe -export -metadatastorepath=C:\AOSService\PackagesLocalDirectory -modelname="D365_AD2023_PracticeTest" -outputpath=c:\D365_AD2023_PracticeProjects_ExportedModels
